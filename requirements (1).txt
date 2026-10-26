@@ -1,5 +1,0 @@
-streamlit
-pandas
-numpy
-rdkit
-py3Dmol
